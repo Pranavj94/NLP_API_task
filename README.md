@@ -21,7 +21,7 @@ To run the Text Analysis API locally, follow the steps below:
 
    ```bash
    git clone https://github.com/Pranavj94/NLP_API_task.git
-   cd text-analysis-apiNLP_API_task
+   cd NLP_API_task
 2. Install the required dependencies:
 
    ```bash
